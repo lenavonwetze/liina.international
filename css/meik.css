@@ -19,7 +19,6 @@ header {
     position: fixed;
     display: flex;
     justify-content: space-between;
-    background-color:white;
     padding-bottom: 0.4em;
     top: 0;
     left: 0;
@@ -34,6 +33,7 @@ h1 {
     font-weight: normal;
 }
 aside {
+    font-style: italic;
 }
 
 div {
